@@ -1,0 +1,55 @@
+1679806007736	Rename package 'exception_oop'
+1679808160852	Rename package 'callParentConstructor_opp'
+1679808250627	Rename package 'callConstructotToConstru_oop'
+1679808283381	Rename package 'deepCloning_objec_oop'
+1679808326260	Rename package 'opp_Condition'
+1679808389915	Rename package 'polymorPhism_Array_oop'
+1679808408796	Rename package 'polymorPhism_ReturnType_opp'
+1679808429838	Rename package 'shallowtCloning_oop'
+1679808443558	Rename package 'oop_3_shallowtCloning'
+1679808472646	Rename package 'interface_oop'
+1679808678341	Rename package 'constructor_and_Inheritance'
+1679808705484	Rename package 'consTructor_Array_polymor'
+1679808936986	Rename package 'iput_output'
+1679809181144	Rename package 'callPartents_Overridden_Method'
+1679847182978	Move compilation unit
+1679847196445	Delete element
+1679855384913	Rename package 'javaBasics_1_if_eles'
+1679901910648	Move compilation unit
+1679903301787	Rename package 'i_o_stream_6c_'
+1679904566879	Rename type 'WriteDataLineByLine_6F'
+1679915239032	Rename type 'AppendText_exstingFile_old_new_add'
+1679920025697	Rename package 'i_o_stream_6F_'
+1679921245716	Rename type 'TestWriteObject'
+1679986015668	Copy compilation unit
+1679986050542	Copy compilation unit
+1679986064475	Copy compilation unit
+1679988084953	Rename type 'ExterlizableObj_Read'
+1680002610420	Rename type 'i_o_Stream'
+1680052815057	Move compilation unit
+1680052825912	Move compilation unit
+1680052833543	Move compilation unit
+1680052840342	Move compilation unit
+1680052864425	Delete element
+1680052872289	Delete element
+1680052877943	Delete element
+1680052893807	Delete element
+1680052904614	Rename package 'i_o_stream_6E_'
+1680052942538	Rename package 'i_0_strean_transientAtt_6G'
+1680052964579	Rename package 'i_o_stream_6F_Serialization_Deserializatio'
+1680052989772	Rename package 'i_o_strean_transientAtt_6G'
+1680053007326	Rename package 'i_o_Stream_Exterlizable_6H'
+1680072909137	Copy compilation unit
+1680072928657	Copy compilation unit
+1680072970280	Rename type 'HelloThread'
+1680073026344	Rename type 'HelloThreadTest'
+1680074002570	Copy compilation unit
+1680074011624	Copy compilation unit
+1680074058582	Rename type 'ThreadPriority'
+1680074161309	Rename type 'ThreadPriorityTest'
+1680075206683	Copy compilation unit
+1680075218345	Copy compilation unit
+1680076596319	Rename type 'ThreadRunnableImpli'
+1680089476537	Rename type 'ThreadRunnableIDomean'
+1680089509365	Rename type 'ThreadRunnableTest'
+1680250357028	Rename type 'Lamda'

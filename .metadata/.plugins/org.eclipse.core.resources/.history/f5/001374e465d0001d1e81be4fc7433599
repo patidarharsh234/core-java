@@ -1,0 +1,43 @@
+package regexElimentGmailTest;
+
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.ObjectOutputStream;
+import java.io.PrintWriter;
+
+public class Email_Write {
+	public static void main(String[] args) throws Exception {
+
+		// FileOutputStream file=new FileOutputStream("C:\\Users\\Om prakash
+		// Patidar\\Desktop\\rays\\harsh7Emailfile.txt");
+		// ObjectOutputStream out=new ObjectOutputStream(file);
+
+		FileWriter writer = new FileWriter("C:\\Users\\Om prakash Patidar\\Desktop\\rays\\harsh7Emailfile.txt");
+		PrintWriter printWriter = new PrintWriter(writer);
+
+		printWriter.println("harshp.23@gmail.com");
+		printWriter.println("harsh.234@gmai.com");
+		printWriter.println("harsh.234@gmail.com");
+		printWriter.println("rahul.234@gmail.com");
+		printWriter.println("ritik.234@gamil");
+		printWriter.println("yash");
+		printWriter.println("sanjay.234@gamil.com");
+
+		/*
+		 * i_o_StreamGemail g=new i_o_StreamGemail();
+		 * 
+		 * PrintWriter pWriter=new PrintWriter(g.gmail);{
+		 * 
+		 * pWriter.println(g.gmail);}
+		 */
+
+		// out.writeObject(g);
+		/*
+		 * out.writeObject(g); out.close(); file.close();
+		 */
+		System.out.println("DONE..!!!");
+		writer.close();
+		printWriter.close();
+	}
+
+}
